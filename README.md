@@ -1,4 +1,4 @@
-# Linear Prediction-Based Detection of Serially Concatenated DQPSK in SIMO-OFDM
+# Linear Prediction-based Detection of Serially Concatenated DQPSK in SIMO-OFDM
 
 MATLAB code for the journal:
 
